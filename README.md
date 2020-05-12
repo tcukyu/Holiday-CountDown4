@@ -6,4 +6,5 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the developme
+Runs the app in the development mode.<br>
+Open [http://local
