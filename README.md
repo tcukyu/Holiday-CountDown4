@@ -14,4 +14,4 @@ You will also see any lint errors in the console.
 
 ### `npm test`
 
-Launches
+Launches the test runner in the int
