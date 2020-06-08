@@ -29,4 +29,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-**Note: this is a one-way
+**Note: this is a one-way operation. Once you `eje
