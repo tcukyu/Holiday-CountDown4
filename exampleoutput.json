@@ -1,0 +1,20 @@
+
+{
+  "GoodreadsResponse": {
+    "Request": {
+      "authentication": "true",
+      "key": "tWa4n8r5XIzabSpSiqUDQ",
+      "method": "book_show"
+    },
+    "book": {
+      "id": "44420645",
+      "title": "Proper English",
+      "isbn": {},
+      "isbn13": "9781912688104",
+      "asin": {},
+      "kindle_asin": {},
+      "marketplace_id": {},
+      "country_code": "US",
+      "image_url": "https://images.gr-assets.com/books/1554298689m/44420645.jpg",
+      "small_image_url": "https://images.gr-assets.com/books/1554298689s/44420645.jpg",
+      "publication_year": "2019",
