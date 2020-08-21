@@ -220,3 +220,34 @@
             "name": "Abebooks",
             "link": "https://www.goodreads.com/book_link/follow/4"
           },
+          {
+            "id": "882",
+            "name": "Book Depository",
+            "link": "https://www.goodreads.com/book_link/follow/882"
+          },
+          {
+            "id": "5",
+            "name": "Alibris",
+            "link": "https://www.goodreads.com/book_link/follow/5"
+          },
+          {
+            "id": "9",
+            "name": "Indigo",
+            "link": "https://www.goodreads.com/book_link/follow/9"
+          },
+          {
+            "id": "107",
+            "name": "Better World Books",
+            "link": "https://www.goodreads.com/book_link/follow/107"
+          },
+          {
+            "id": "7",
+            "name": "IndieBound",
+            "link": "https://www.goodreads.com/book_link/follow/7"
+          }
+        ]
+      },
+      "series_works": ""
+    }
+  }
+}
