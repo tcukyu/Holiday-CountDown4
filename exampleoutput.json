@@ -171,3 +171,23 @@
           { "name": "category-fiction", "count": "1" },
           { "name": "june", "count": "1" },
           { "name": "ebook-amazon", "count": "1" },
+          { "name": "unread-on-kindle", "count": "1" },
+          { "name": "dnffn", "count": "1" },
+          { "name": "story-rich", "count": "1" }
+        ]
+      },
+      "book_links": {
+        "book_link": {
+          "id": "8",
+          "name": "Libraries",
+          "link": "https://www.goodreads.com/book_link/follow/8"
+        }
+      },
+      "buy_links": {
+        "buy_link": [
+          {
+            "id": "1",
+            "name": "Amazon",
+            "link": "https://www.goodreads.com/book_link/follow/1"
+          },
+          {
