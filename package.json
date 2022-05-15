@@ -5,4 +5,5 @@
   "dependencies": {
     "axios": "^0.19.0",
     "bootstrap": "^4.3.1",
-    "json-loader": 
+    "json-loader": "^0.5.7",
+    "react": "^16.8
