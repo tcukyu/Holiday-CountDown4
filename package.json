@@ -9,4 +9,5 @@
     "react": "^16.8.6",
     "react-bootstrap": "^1.0.0-beta.9",
     "react-dom": "^16.8.6",
-    "react-script
+    "react-scripts": "3.0.1",
+    "un
