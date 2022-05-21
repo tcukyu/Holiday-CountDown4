@@ -16,4 +16,5 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "r
+    "eject": "react-scripts eject"
+  
