@@ -13,4 +13,4 @@
     "underscore": "^1.9.1"
   },
   "scripts": {
-    "st
+    "start": "react-scripts start",
