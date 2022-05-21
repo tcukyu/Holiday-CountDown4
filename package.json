@@ -14,4 +14,5 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scrip
+    "build": "react-scripts build",
+    "test": "react-scr
