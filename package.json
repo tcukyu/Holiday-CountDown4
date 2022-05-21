@@ -12,3 +12,5 @@
     "react-scripts": "3.0.1",
     "underscore": "^1.9.1"
   },
+  "scripts": {
+    "st
