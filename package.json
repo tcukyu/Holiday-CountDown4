@@ -39,4 +39,5 @@
     "pretty-quick": "^1.11.0"
   },
   "husky": {
-   
+    "hooks": {
+      "pre-commi
