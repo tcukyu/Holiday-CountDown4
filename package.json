@@ -40,4 +40,5 @@
   },
   "husky": {
     "hooks": {
-      "pre-commi
+      "pre-commit": "pretty-quick --staged"
+ 
