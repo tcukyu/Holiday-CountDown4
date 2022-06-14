@@ -1,2 +1,2 @@
 import React, { Component } from "react";
-import Media from "re
+import Media from "react-bootstrap/Media";
