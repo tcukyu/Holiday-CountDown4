@@ -7,4 +7,4 @@ import underscore from "underscore";
 import axios from "axios";
 import "./App.css";
 
-const prodUrl = "http://e
+const prodUrl = "http://ec2-52-70-122-182.compute-1.a
