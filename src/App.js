@@ -16,4 +16,8 @@ function App() {
       <h1>Indie Books!</h1>
       <AdditionForm />
       <BookList />
-    </div
+    </div>
+  );
+}
+
+class AdditionFo
