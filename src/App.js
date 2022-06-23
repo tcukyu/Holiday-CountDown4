@@ -21,4 +21,5 @@ function App() {
 }
 
 class AdditionForm extends Component {
-  cons
+  constructor(props) {
+    sup
