@@ -13,4 +13,6 @@ const prodUrl = "http://ec2-52-70-122-182.compute-1.amazonaws.com:3001";
 function App() {
   return (
     <div className="App">
-      <h1>Indie Books!<
+      <h1>Indie Books!</h1>
+      <AdditionForm />
+  
