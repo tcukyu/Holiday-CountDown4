@@ -22,4 +22,6 @@ function App() {
 
 class AdditionForm extends Component {
   constructor(props) {
-    sup
+    super(props);
+    this.state = {
+   
