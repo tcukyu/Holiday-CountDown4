@@ -25,4 +25,8 @@ class AdditionForm extends Component {
     super(props);
     this.state = {
       validated: true
-    
+    };
+  }
+
+  handleSubmit(event) {
+  
