@@ -29,4 +29,4 @@ class AdditionForm extends Component {
   }
 
   handleSubmit(event) {
-  
+    event.preventDefault
