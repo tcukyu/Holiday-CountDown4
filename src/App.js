@@ -30,4 +30,4 @@ class AdditionForm extends Component {
 
   handleSubmit(event) {
     event.preventDefault();
-    const goodreadsUrl =
+    const goodreadsUrl = new FormData(event.target
