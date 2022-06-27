@@ -33,4 +33,5 @@ class AdditionForm extends Component {
     const goodreadsUrl = new FormData(event.target).get("goodreadsLink");
 
     var regex = RegExp("^.*goodreads\\.com\\/book\\/show\\/\\d+.*");
-    if (regex.te
+    if (regex.test(goodreadsUrl)) {
+  
