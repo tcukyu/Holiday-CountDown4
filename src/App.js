@@ -29,4 +29,5 @@ class AdditionForm extends Component {
   }
 
   handleSubmit(event) {
-    event.preventDefault
+    event.preventDefault();
+    const goodreadsUrl =
