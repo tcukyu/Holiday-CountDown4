@@ -37,4 +37,5 @@ class AdditionForm extends Component {
       var str = goodreadsUrl;
       var reg = new RegExp("\\d+");
       var matches = str.match(reg);
-      axios
+      axios({
+        method: "post"
