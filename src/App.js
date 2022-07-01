@@ -35,4 +35,5 @@ class AdditionForm extends Component {
     var regex = RegExp("^.*goodreads\\.com\\/book\\/show\\/\\d+.*");
     if (regex.test(goodreadsUrl)) {
       var str = goodreadsUrl;
-      var reg = new RegExp("\\d
+      var reg = new RegExp("\\d+");
+      var matche
