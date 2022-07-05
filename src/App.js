@@ -38,4 +38,6 @@ class AdditionForm extends Component {
       var reg = new RegExp("\\d+");
       var matches = str.match(reg);
       axios({
-        method: "post"
+        method: "post",
+        url: prodUrl + "/addbook",
+ 
