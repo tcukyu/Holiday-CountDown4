@@ -41,4 +41,4 @@ class AdditionForm extends Component {
         method: "post",
         url: prodUrl + "/addbook",
         data: {
-          boo
+          bookId: goodreadsUrl.slice(
