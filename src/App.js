@@ -43,4 +43,4 @@ class AdditionForm extends Component {
         data: {
           bookId: goodreadsUrl.slice(
             matches.index,
-            matche
+            matches.index + matches[0].length
