@@ -46,4 +46,6 @@ class AdditionForm extends Component {
             matches.index + matches[0].length
           )
         }
-      
+      });
+      this.setState({
+    
