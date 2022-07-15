@@ -53,4 +53,8 @@ class AdditionForm extends Component {
     } else {
       this.setState({
         validated: false
-  
+      });
+    }
+  }
+
+  getForm() {
