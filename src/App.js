@@ -58,4 +58,5 @@ class AdditionForm extends Component {
   }
 
   getForm() {
-    const { validated 
+    const { validated } = this.state;
+    const
