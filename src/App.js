@@ -60,4 +60,7 @@ class AdditionForm extends Component {
   getForm() {
     const { validated } = this.state;
     const error = validated ? (
-      <di
+      <div />
+    ) : (
+      <Col>
+    
