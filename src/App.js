@@ -64,4 +64,4 @@ class AdditionForm extends Component {
     ) : (
       <Col>
         {" "}
-        That 
+        That was not a valid g
