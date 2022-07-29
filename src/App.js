@@ -65,4 +65,4 @@ class AdditionForm extends Component {
       <Col>
         {" "}
         That was not a valid goodreads book link. Example goodreads link is:
-        https://www.goodreads.com/book/show/386162.T
+        https://www.goodreads.com/book/show/386162.The_Hitchhiker_s_Guide
