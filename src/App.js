@@ -69,4 +69,5 @@ class AdditionForm extends Component {
       </Col>
     );
     return (
-      <Form onSubmit={event => this.handleSu
+      <Form onSubmit={event => this.handleSubmit(event)}>
+      
