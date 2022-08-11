@@ -72,4 +72,5 @@ class AdditionForm extends Component {
       <Form onSubmit={event => this.handleSubmit(event)}>
         <Form.Row>
           <Col>
-            <Fo
+            <Form.Control
+              typ
