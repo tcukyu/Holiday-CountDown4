@@ -73,4 +73,5 @@ class AdditionForm extends Component {
         <Form.Row>
           <Col>
             <Form.Control
-              typ
+              type="text"
+              
