@@ -74,4 +74,5 @@ class AdditionForm extends Component {
           <Col>
             <Form.Control
               type="text"
-              
+              name="goodreadsLink"
+  
