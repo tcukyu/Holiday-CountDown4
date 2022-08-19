@@ -75,4 +75,4 @@ class AdditionForm extends Component {
             <Form.Control
               type="text"
               name="goodreadsLink"
-              placeholder="Ent
+              placeholder="Enter goodreads link to suggest 
