@@ -77,4 +77,6 @@ class AdditionForm extends Component {
               name="goodreadsLink"
               placeholder="Enter goodreads link to suggest a book!"
             />
-          </
+          </Col>
+          {error}
+        
