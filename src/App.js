@@ -75,4 +75,6 @@ class AdditionForm extends Component {
             <Form.Control
               type="text"
               name="goodreadsLink"
-              placeholder="Enter goodreads link to suggest 
+              placeholder="Enter goodreads link to suggest a book!"
+            />
+          </
