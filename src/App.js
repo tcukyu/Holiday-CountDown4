@@ -80,4 +80,4 @@ class AdditionForm extends Component {
           </Col>
           {error}
           <Col>
-            <Bu
+            <Button variant="primary
