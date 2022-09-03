@@ -83,4 +83,5 @@ class AdditionForm extends Component {
             <Button variant="primary" type="submit">
               Submit
             </Button>
-          </C
+          </Col>
+        </Form.Ro
