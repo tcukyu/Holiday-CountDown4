@@ -84,4 +84,6 @@ class AdditionForm extends Component {
               Submit
             </Button>
           </Col>
-        </Form.Ro
+        </Form.Row>
+      </Form>
+  
