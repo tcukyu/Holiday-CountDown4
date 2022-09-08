@@ -86,4 +86,8 @@ class AdditionForm extends Component {
           </Col>
         </Form.Row>
       </Form>
-  
+    );
+  }
+
+  render() {
+ 
