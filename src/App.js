@@ -90,4 +90,6 @@ class AdditionForm extends Component {
   }
 
   render() {
-    const innerContents = this.
+    const innerContents = this.getForm();
+
+    retur
