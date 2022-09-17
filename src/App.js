@@ -92,4 +92,8 @@ class AdditionForm extends Component {
   render() {
     const innerContents = this.getForm();
 
-    return <div className="newBookAddition">{innerCont
+    return <div className="newBookAddition">{innerContents}</div>;
+  }
+}
+
+class BookLi
