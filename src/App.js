@@ -98,4 +98,6 @@ class AdditionForm extends Component {
 
 class BookList extends Component {
   constructor(props) {
-    super(p
+    super(props);
+    this.state = {
+ 
