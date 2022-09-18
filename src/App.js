@@ -101,4 +101,7 @@ class BookList extends Component {
     super(props);
     this.state = {
       isLoaded: false,
- 
+      books: []
+    };
+  }
+
