@@ -108,4 +108,5 @@ class BookList extends Component {
   componentDidMount() {
     const serviceUrl = prodUrl;
 
-    axios.get(serviceUrl
+    axios.get(serviceUrl + "/getallbooks").then(
+  
