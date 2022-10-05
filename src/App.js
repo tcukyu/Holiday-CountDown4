@@ -111,4 +111,5 @@ class BookList extends Component {
     axios.get(serviceUrl + "/getallbooks").then(
       result => {
         this.setState({
-          isLoa
+          isLoaded: true,
+          boo
