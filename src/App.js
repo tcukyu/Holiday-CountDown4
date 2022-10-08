@@ -112,4 +112,5 @@ class BookList extends Component {
       result => {
         this.setState({
           isLoaded: true,
-          boo
+          books: result.data
+      
