@@ -116,4 +116,5 @@ class BookList extends Component {
         });
       },
       error => {
-        console.log(er
+        console.log(error);
+        this.setS
