@@ -113,4 +113,6 @@ class BookList extends Component {
         this.setState({
           isLoaded: true,
           books: result.data
-      
+        });
+      },
+      error => 
