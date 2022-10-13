@@ -117,4 +117,6 @@ class BookList extends Component {
       },
       error => {
         console.log(error);
-        this.setS
+        this.setState({
+          isLoaded: false
+  
