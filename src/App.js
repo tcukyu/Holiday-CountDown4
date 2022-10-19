@@ -128,4 +128,4 @@ class BookList extends Component {
     if (this.state.isLoaded) {
       return (
         <ul>
-          {t
+          {this.state.books.map(item
