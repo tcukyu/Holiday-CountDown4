@@ -129,4 +129,4 @@ class BookList extends Component {
       return (
         <ul>
           {this.state.books.map(item => {
-            const b
+            const book = JSON.parse(item).Goodread
