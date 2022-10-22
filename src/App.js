@@ -139,4 +139,5 @@ class BookList extends Component {
   }
 }
 
-class GetBookIn
+class GetBookInfo extends Component {
+  render(
