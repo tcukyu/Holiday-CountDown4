@@ -131,4 +131,5 @@ class BookList extends Component {
           {this.state.books.map(item => {
             const book = JSON.parse(item).GoodreadsResponse.book;
             return <GetBookInfo book={book} key={book.id} />;
- 
+          })}
+        <
