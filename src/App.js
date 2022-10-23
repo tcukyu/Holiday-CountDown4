@@ -140,4 +140,5 @@ class BookList extends Component {
 }
 
 class GetBookInfo extends Component {
-  render(
+  render() {
+    const book = t
