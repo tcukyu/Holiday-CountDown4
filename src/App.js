@@ -141,4 +141,5 @@ class BookList extends Component {
 
 class GetBookInfo extends Component {
   render() {
-    const book = t
+    const book = this.props.book;
+   
