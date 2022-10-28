@@ -142,4 +142,5 @@ class BookList extends Component {
 class GetBookInfo extends Component {
   render() {
     const book = this.props.book;
-   
+    const regex = /<br\s*[/]?>/gi;
+ 
