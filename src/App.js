@@ -144,4 +144,5 @@ class GetBookInfo extends Component {
     const book = this.props.book;
     const regex = /<br\s*[/]?>/gi;
     const bookDescription =
-      book.description && !underscore.isEmpty(book.descript
+      book.description && !underscore.isEmpty(book.description)
+        ? book.des
