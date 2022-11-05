@@ -145,4 +145,4 @@ class GetBookInfo extends Component {
     const regex = /<br\s*[/]?>/gi;
     const bookDescription =
       book.description && !underscore.isEmpty(book.description)
-        ? book.des
+        ? book.description.split(regex).jo
