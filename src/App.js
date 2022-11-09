@@ -148,4 +148,5 @@ class GetBookInfo extends Component {
         ? book.description.split(regex).join("\n")
         : "";
     return (
-      <Me
+      <Media as="li">
+        {this.
