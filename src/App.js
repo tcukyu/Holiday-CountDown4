@@ -147,3 +147,5 @@ class GetBookInfo extends Component {
       book.description && !underscore.isEmpty(book.description)
         ? book.description.split(regex).join("\n")
         : "";
+    return (
+      <Me
