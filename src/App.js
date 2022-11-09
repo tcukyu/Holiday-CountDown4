@@ -149,4 +149,5 @@ class GetBookInfo extends Component {
         : "";
     return (
       <Media as="li">
-        {this.
+        {this.getImage()}
+        <Media.Bod
