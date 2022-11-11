@@ -151,4 +151,5 @@ class GetBookInfo extends Component {
       <Media as="li">
         {this.getImage()}
         <Media.Body>
-          <a href={book.link} target="_blank" rel="no
+          <a href={book.link} target="_blank" rel="noopener noreferrer">
+       
