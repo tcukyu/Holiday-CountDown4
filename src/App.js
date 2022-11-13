@@ -153,4 +153,4 @@ class GetBookInfo extends Component {
         <Media.Body>
           <a href={book.link} target="_blank" rel="noopener noreferrer">
             <h5>
-              {
+              {book.title} by {book.authors.author.n
