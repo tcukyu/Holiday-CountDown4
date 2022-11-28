@@ -157,4 +157,5 @@ class GetBookInfo extends Component {
             </h5>
           </a>
           <p>{bookDescription}</p>
-    
+        </Media.Body>
+      <
