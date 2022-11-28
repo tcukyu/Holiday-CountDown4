@@ -156,4 +156,5 @@ class GetBookInfo extends Component {
               {book.title} by {book.authors.author.name}
             </h5>
           </a>
-          <
+          <p>{bookDescription}</p>
+    
