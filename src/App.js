@@ -162,4 +162,6 @@ class GetBookInfo extends Component {
     );
   }
 
-  getImage
+  getImage() {
+    return (
+      <
