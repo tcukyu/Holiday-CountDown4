@@ -164,4 +164,5 @@ class GetBookInfo extends Component {
 
   getImage() {
     return (
-      <
+      <img
+        className="align-s
