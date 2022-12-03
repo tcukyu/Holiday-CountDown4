@@ -158,4 +158,8 @@ class GetBookInfo extends Component {
           </a>
           <p>{bookDescription}</p>
         </Media.Body>
-      <
+      </Media>
+    );
+  }
+
+  getImage
