@@ -166,4 +166,4 @@ class GetBookInfo extends Component {
     return (
       <img
         className="align-self-center mr-3"
-        sr
+        src={this.props.book.image_u
