@@ -173,4 +173,4 @@ class GetBookInfo extends Component {
   }
 }
 
-export defaul
+export default App;
