@@ -168,3 +168,9 @@ class GetBookInfo extends Component {
         className="align-self-center mr-3"
         src={this.props.book.image_url}
         alt={this.props.book.title}
+      />
+    );
+  }
+}
+
+export defaul
