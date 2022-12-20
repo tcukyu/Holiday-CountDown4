@@ -2,4 +2,5 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
 
-it('renders without cras
+it('renders without crashing', () => {
+  const div 
