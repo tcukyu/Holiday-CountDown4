@@ -1,3 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App
+import App from './App';
+
+it('ren
